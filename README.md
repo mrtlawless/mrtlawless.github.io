@@ -28,7 +28,9 @@ Thematisch gebundelde verwijzingen naar externe publicaties.
 - [Overzicht #20 - 2026-09-04](https://mrtlawless.github.io/g/20/) - 24
 - [Overzicht #21 - 2026-09-05](https://mrtlawless.github.io/g/21/) - 24
 - [Overzicht #22 - 2026-09-06](https://mrtlawless.github.io/g/22/) - 24
-- [Overzicht #23 - 2026-09-07](https://mrtlawless.github.io/g/23/) - 20
+- [Overzicht #23 - 2026-09-07](https://mrtlawless.github.io/g/23/) - 24
+- [Overzicht #24 - 2026-09-11](https://mrtlawless.github.io/g/24/) - 24
+- [Overzicht #25 - 2026-09-12](https://mrtlawless.github.io/g/25/) - 2
 
 Elk overzichtspagina bevat directe verwijzingen naar externe publicaties binnen dezelfde themagroep. Updates zijn te volgen via de RSS-feed.
 
